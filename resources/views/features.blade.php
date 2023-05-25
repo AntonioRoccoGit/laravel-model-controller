@@ -5,5 +5,8 @@
 @endsection
 
 @section('content')
-    <h2>Pagina in Lavorazione</h2>
+    <div class="container">
+        <h2>Pagina in Lavorazione</h2>
+
+    </div>
 @endsection
